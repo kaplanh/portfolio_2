@@ -183,3 +183,10 @@ textarea {
   color: #e15353;
   opacity: 1;
 }
+.head:hover::after {
+  
+  font-family:"Font Awesome 6 Free" ;
+  font-weight: 900;
+  content: "\f0a6";
+  font-size: 30px;
+}
