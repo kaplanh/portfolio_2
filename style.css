@@ -149,7 +149,9 @@ textarea {
 }
 
 #send:hover::after {
-  content: "   🖅";
+  font-family:"Font Awesome 6 Free" ;
+  font-weight: 600;
+  content: "\f1d8";
   font-size: 30px;
 }
 #send:hover {
